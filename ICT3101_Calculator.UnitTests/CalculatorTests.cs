@@ -52,6 +52,7 @@ namespace ICT3101_Calculator.UnitTests
             Assert.That(result, Is.EqualTo(2));
         }
         //Qn14 ab
+        /*
         [Test]
         [TestCase(0, 0)]
         [TestCase(0, 10)]
@@ -60,6 +61,7 @@ namespace ICT3101_Calculator.UnitTests
         {
             Assert.That(() => _calculator.Divide(a, b), Throws.ArgumentException);
         }
+        */
         //Qn 15 ab (2 tests)
         [Test]
         [TestCase(5)]

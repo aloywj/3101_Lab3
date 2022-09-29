@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using NUnit.Framework;
 using TechTalk.SpecFlow;
 
 namespace SpecFlowCalculatorTests.Steps;
@@ -17,15 +18,27 @@ public sealed class UsingMusaStepDefinition
         this._calculator = calc;
     }
 
-    [When(@"I have entered (.*) as initial failure and (.*) as failure over time and (.*) as total failure over time and press FI")]
-    public void WhenIHaveEnteredAsInitialFailureAndAsFailureOverTimeAndAsTotalFailureOverTimeAndPressFi(double initialFailure, double failureOverTime, double totalFailureOverTime)
+    [When(@"the initial failure intensity (.*) and the average number of failures (.*) and the total number of failure over infinite time (.*) and calculate current failure intensity")]
+    public void WhenTheInitialFailureIntensityAndTheAverageNumberOfFailuresAndTheTotalNumberOfFailureOverInfiniteTimeAndCalculateCurrentFailureIntensity(double p0, double p1, double p2)
     {
-        _result = _calculator.CurrentFailureIntensity(initialFailure, failureOverTime, totalFailureOverTime);
+        _result = _calculator.CurrentFailureIntensity(p0, p1, p2);
     }
 
-    [When(@"I have entered (.*) as initial failure and (.*) as total failure over infinite time and (.*) as time and press EF")]
-    public void WhenIHaveEnteredAsInitialFailureAndAsTotalFailureOverInfiniteTimeAndAsTimeAndPressEf(double initialFailure, double totalFailureOverInfiniteTime, double time)
+    [When(@"the initial failure intensity (.*) and  the total number of failure over infinite time (.*) and number of CPU Hours (.*) calculate the numbers of failures")]
+    public void WhenTheInitialFailureIntensityAndTheAverageNumberOfFailuresAndTheTotalNumberOfFailureOverInfiniteTimeAndNumberOfCpuHoursCalculateTheNumbersOfFailures(double p0, double p1, double p2)
     {
-        _result = _calculator.CurrentFailureIntensity(initialFailure, totalFailureOverInfiniteTime, time);
+        _result = _calculator.ExpectedFailureIntensity(p0, p1, p2);
+    }
+
+    [Then(@"the number of failures experienced should be (.*)")]
+    public void ThenTheNumberOfFailuresExperiencedShouldBe(double p0)
+    {
+        Assert.That(_result, Is.EqualTo(p0));
+    }
+
+    [Then(@"the current failure intensity should be (.*)")]
+    public void ThenTheCurrentFailureIntensityShouldBe(double p0)
+    {
+        Assert.That(_result, Is.EqualTo(p0));
     }
 }

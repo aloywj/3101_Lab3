@@ -6,11 +6,11 @@ I want to use my calculator to do this
 @Musa
 Scenario: Calculate current failure intensity
 	Given I have a calculator
-	When I have entered 5 as initial failure and 10 as failure over time and 15 as total failure over time and press FI
-	Then the result should be 300
+	When  the initial failure intensity 10 and the average number of failures 50 and the total number of failure over infinite time 100 and calculate current failure intensity
+	Then the current failure intensity should be 5
 	
 @Musa
-Scenario: Calculate expected average failure intensity
-	Given  I have a calculator
-	When I have entered 5 as initial failure and 10 as total failure over infinite time and 15 as time and press EF
-	Then the result should be 400
+Scenario: Calculate average number of failures
+	Given I have a calculator
+	When the initial failure intensity 10 and  the total number of failure over infinite time 100 and number of CPU Hours 10 calculate the numbers of failures
+	Then the number of failures experienced should be 63

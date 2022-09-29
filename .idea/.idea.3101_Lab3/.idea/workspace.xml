@@ -6,9 +6,44 @@
     <projectFile>SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="chore: amended yml filepath">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/dotnet.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dotnet.yml" afterDir="false" />
+    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="chore: re-edited yml again">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0/ICT3101_Calculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0/ICT3101_Calculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0/ICT3101_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0/ICT3101_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net6.0/ICT3101_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/CalculatorTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/CalculatorTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/bin/Debug/net6.0/ICT3101_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ICT3101_Calculator.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ref/ICT3101_Calculator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/ref/ICT3101_Calculator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/refint/ICT3101_Calculator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ICT3101_Calculator.UnitTests/obj/Debug/net6.0/refint/ICT3101_Calculator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/Features/UsingCalculatorMusa.feature" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/Features/UsingCalculatorMusa.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/Features/UsingCalculatorMusa.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/Features/UsingCalculatorMusa.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/Steps/MusaStepDefinition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/Steps/MusaStepDefinition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/ICT3101_Calculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/ICT3101_Calculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/ICT3101_Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/ICT3101_Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/SpecFlowCalculatorTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/SpecFlowCalculatorTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/SpecFlowCalculatorTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/SpecFlowCalculatorTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/TestExecution.json" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/bin/Debug/net6.0/TestExecution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/SpecFlowCalculatorTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/ref/SpecFlowCalculatorTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/ref/SpecFlowCalculatorTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/refint/SpecFlowCalculatorTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SpecFlowCalculatorTests/obj/Debug/net6.0/refint/SpecFlowCalculatorTests.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +137,7 @@
       <workItem from="1663902785970" duration="3853000" />
       <workItem from="1664436945227" duration="1405000" />
       <workItem from="1664446974966" duration="1006000" />
-      <workItem from="1664448197534" duration="1886000" />
+      <workItem from="1664448197534" duration="3498000" />
     </task>
     <task id="LOCAL-00001" summary="3104 Lab 4 Step 1-5">
       <created>1664447834776</created>
@@ -132,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664449752289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chore: re-edited yml again">
+      <created>1664450123899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664450123899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +199,8 @@
     <MESSAGE value="ICt3101 Lab 3 Step 11" />
     <MESSAGE value="chore: etc" />
     <MESSAGE value="chore: amended yml filepath" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: amended yml filepath" />
+    <MESSAGE value="chore: re-edited yml again" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: re-edited yml again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

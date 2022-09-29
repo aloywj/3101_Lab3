@@ -97,25 +97,26 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("I have a calculator", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 9
- testRunner.When("I have entered 5 as initial failure and 10 as failure over time and 15 as total f" +
-                        "ailure over time and press FI", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("the initial failure intensity 10 and the average number of failures 50 and the to" +
+                        "tal number of failure over infinite time 100 and calculate current failure inten" +
+                        "sity", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 10
- testRunner.Then("the result should be 300", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("the current failure intensity should be 5", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Calculate expected average failure intensity")]
+        [NUnit.Framework.DescriptionAttribute("Calculate average number of failures")]
         [NUnit.Framework.CategoryAttribute("Musa")]
-        public void CalculateExpectedAverageFailureIntensity()
+        public void CalculateAverageNumberOfFailures()
         {
             string[] tagsOfScenario = new string[] {
                     "Musa"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Calculate expected average failure intensity", null, tagsOfScenario, argumentsOfScenario, featureTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Calculate average number of failures", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 13
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
@@ -130,11 +131,11 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("I have a calculator", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 15
- testRunner.When("I have entered 5 as initial failure and 10 as total failure over infinite time an" +
-                        "d 15 as time and press EF", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("the initial failure intensity 10 and  the total number of failure over infinite t" +
+                        "ime 100 and number of CPU Hours 10 calculate the numbers of failures", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 16
- testRunner.Then("the result should be 400", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("the number of failures experienced should be 63", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
