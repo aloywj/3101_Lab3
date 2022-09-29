@@ -6,7 +6,10 @@
     <projectFile>SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="ICt3101 Lab 3 Step 11" />
+    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="chore: amended yml filepath">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/dotnet.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dotnet.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +102,7 @@
       <workItem from="1663902785970" duration="3853000" />
       <workItem from="1664436945227" duration="1405000" />
       <workItem from="1664446974966" duration="1006000" />
-      <workItem from="1664448197534" duration="1264000" />
+      <workItem from="1664448197534" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="3104 Lab 4 Step 1-5">
       <created>1664447834776</created>
@@ -115,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664449467070</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chore: etc">
+      <created>1664449513405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664449513405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: amended yml filepath">
+      <created>1664449752289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664449752289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +155,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="3104 Lab 4 Step 1-5" />
     <MESSAGE value="ICt3101 Lab 3 Step 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="ICt3101 Lab 3 Step 11" />
+    <MESSAGE value="chore: etc" />
+    <MESSAGE value="chore: amended yml filepath" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: amended yml filepath" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
