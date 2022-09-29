@@ -6,7 +6,18 @@
     <projectFile>SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="ICt3101 Lab 3 Step 11" />
+    <list default="true" id="b82a9ba2-8013-4012-820d-1552f888abac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.3101_Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3101_Lab3.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/3101_Lab3.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F8Hcz0SvAZZxA24V3S6cCUlHoq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,7 +112,7 @@
       <workItem from="1663902785970" duration="3853000" />
       <workItem from="1664436945227" duration="1405000" />
       <workItem from="1664446974966" duration="1006000" />
-      <workItem from="1664448197534" duration="1264000" />
+      <workItem from="1664448023386" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="3104 Lab 4 Step 1-5">
       <created>1664447834776</created>
@@ -108,14 +121,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664447834776</updated>
     </task>
-    <task id="LOCAL-00002" summary="ICt3101 Lab 3 Step 11">
-      <created>1664449467070</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664449467070</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +141,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="3104 Lab 4 Step 1-5" />
-    <MESSAGE value="ICt3101 Lab 3 Step 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="ICt3101 Lab 3 Step 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="3104 Lab 4 Step 1-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
