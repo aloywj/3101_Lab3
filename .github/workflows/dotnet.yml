@@ -9,8 +9,12 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
-
+    runs-on: windows-latest
+    
+    defaults:
+      run:
+        working-directory: ./SubFolderThatContainsSolutionFile/
+        
     steps:
     - uses: actions/checkout@v3
     - name: Setup .NET
@@ -22,4 +26,11 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
+      run: dotnet test --no-build --verbosity normal
+
+    - name: NUnit Tests
+      working-directory: ICT3101_Calculator.UnitTests/
+      run: dotnet test --no-build --verbosity normal
+    - name: SpecFLow Tests
+      working-directory: SpecFlowCalculatorTests/
       run: dotnet test --no-build --verbosity normal

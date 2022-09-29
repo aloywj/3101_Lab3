@@ -6572,11 +6572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
       "projectName": "SpecFlowCalculatorTests",
-      "projectPath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
+      "projectPath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
       "packagesPath": "C:\\Users\\Aloy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\SpecFlowCalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\SpecFlowCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aloy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6593,8 +6593,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ICT3101_Calculator.csproj": {
-              "projectPath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ICT3101_Calculator.csproj"
+            "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ConsoleApp1\\ICT3101_Calculator.csproj": {
+              "projectPath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ConsoleApp1\\ICT3101_Calculator.csproj"
             }
           }
         }

@@ -6545,11 +6545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ICT3101_Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ConsoleApp1\\ICT3101_Calculator.csproj",
       "projectName": "ICT3101_Calculator",
-      "projectPath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ICT3101_Calculator.csproj",
+      "projectPath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ConsoleApp1\\ICT3101_Calculator.csproj",
       "packagesPath": "C:\\Users\\Aloy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aloy\\AppData\\Roaming\\NuGet\\NuGet.Config",

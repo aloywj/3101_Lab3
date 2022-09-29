@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K16XX6aNwnHqw1tVQVoSuvff2F8ITuRBXmLdZ5Y5bYhux3oPe1lCGzbzV2vsbFUVIen2pynmT9ONj65ndW55nA==",
+  "dgSpecHash": "TK6+MMmXB/7If8BGfr8kK0IkNv3nCN2aWlWTYCStYsqXGaNAoS8mt2/p/lLeGL/oegPIrdH+gNRb8ndnMo9bBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aloy\\source\\repos\\ConsoleApp1\\ICT3101_Calculator.UnitTests\\ICT3101_Calculator.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Aloy\\source\\repos\\ICT3101\\Lab4\\ICT3101_Calculator.UnitTests\\ICT3101_Calculator.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aloy\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Aloy\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
